@@ -5,7 +5,7 @@ client = boto3.client(
     region_name="us-east-1"
 )
 
-kb_id = "WDPLTQZXFF"
+kb_id = "########"
 
 questions = [
     "How many days of maternity leave does the company offer?"
